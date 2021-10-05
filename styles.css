@@ -1,0 +1,26 @@
+body{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e9eaea;
+}
+p{
+    line-height: 0;
+    color: #8c8383;
+}
+h1{
+    color: #e7645a;
+}
+.class-grijs{
+    color: grey;
+}
+a{
+    line-height: 3;
+    border: 8Px solid #e7645a;
+    color: white;
+    text-decoration: none;
+    background-color: #e7645a;
+    font-family: ;
+}
+/* mouse over link */
+a:hover {
+    color: #1764ac;
